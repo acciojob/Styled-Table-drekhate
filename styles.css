@@ -17,9 +17,6 @@ th, td {
 tr:nth-child(even) {
     background-color: gainsboro;
 }
-/* table tr:first-child th:first-child {
-    border-top-left-radius: 10px;
-} */
 .th-first {
     border-radius: 10px 0px 0px 0px;
 }
